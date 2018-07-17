@@ -8,7 +8,7 @@ class Worker extends Person {
     }
 
     getRoleDescription() {
-        return `I am a Teacher. I have a job.`
+        return ` I am a Teacher. I have a job.`
     }
 }
 

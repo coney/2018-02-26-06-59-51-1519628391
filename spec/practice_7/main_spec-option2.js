@@ -108,10 +108,6 @@ describe("Option-2 Person", () => {
 
             });
         });
-
-
-
-
     });
 });
 
